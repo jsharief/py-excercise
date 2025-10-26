@@ -1,6 +1,6 @@
 from CustomerOrder import CustomerOrder as co
 from Product import Product as Product
-customer_list = ['Alice', 'Bob', 'Charlie', 'David', 'Eva']
+
 ### initialize some orders
 co1 = co('Alice', 'Laptop', 1, 50.00, 'Electronics')
 co2 = co('Alice', 'Smartphone', 2, 80.00, 'Electronics')
